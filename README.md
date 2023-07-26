@@ -1,4 +1,4 @@
-**Leetcode Database exercises**
+# Leetcode Database exercises
   
 # (I) Easy -- 60
 175 Combine Two Tables  
@@ -118,7 +118,7 @@
 1596 Most Frequent Products of Each Customer      
 1613 Find the Missing IDs      
 
-# (III) Hard -- 18 of them
+# (III) Hard -- 18
 185 Department Top Three Salaries      
 262 Trips and Users      
 569 Median Employee Salary      
